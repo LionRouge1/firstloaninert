@@ -1,40 +1,16 @@
 {
   "files": {
-    "main.css": "/https//LionRouge1.github.io/firstloaninert/static/css/main.5e894b69.css",
-    "main.js": "/https//LionRouge1.github.io/firstloaninert/static/js/main.605831bc.js",
+    "main.css": "/https//LionRouge1.github.io/firstloaninert/static/css/main.073c9b0a.css",
+    "main.js": "/https//LionRouge1.github.io/firstloaninert/static/js/main.d6ee60ef.js",
     "static/js/787.ce0fb57c.chunk.js": "/https//LionRouge1.github.io/firstloaninert/static/js/787.ce0fb57c.chunk.js",
-    "static/media/m_anim.gif": "/https//LionRouge1.github.io/firstloaninert/static/media/m_anim.9c7314f8f4b9b4d2a9b6.gif",
-    "static/media/services.png": "/https//LionRouge1.github.io/firstloaninert/static/media/services.4e157be221b3534a0287.png",
-    "static/media/bkra-header.jpg": "/https//LionRouge1.github.io/firstloaninert/static/media/bkra-header.ca0c0b4fe471ae7af0b9.jpg",
-    "static/media/woman.png": "/https//LionRouge1.github.io/firstloaninert/static/media/woman.868891ffa3f31440832a.png",
-    "static/media/footerbg.png": "/https//LionRouge1.github.io/firstloaninert/static/media/footerbg.442b167f207c30399cbb.png",
-    "static/media/about.png": "/https//LionRouge1.github.io/firstloaninert/static/media/about.5dded1de6dbfed6ec39c.png",
-    "static/media/our.png": "/https//LionRouge1.github.io/firstloaninert/static/media/our.a91a23f9e1424b5c4cbb.png",
-    "static/media/joy.png": "/https//LionRouge1.github.io/firstloaninert/static/media/joy.e22d923a3c73f1cdc8b6.png",
-    "static/media/pool.png": "/https//LionRouge1.github.io/firstloaninert/static/media/pool.e81912edcb8cfdabb015.png",
-    "static/media/business.png": "/https//LionRouge1.github.io/firstloaninert/static/media/business.0ffebf4017f063dc5cb2.png",
-    "static/media/author.png": "/https//LionRouge1.github.io/firstloaninert/static/media/author.12468291ac1b8a4047ae.png",
-    "static/media/contact.jpeg": "/https//LionRouge1.github.io/firstloaninert/static/media/contact.fdff8657ee6c967ab535.jpeg",
-    "static/media/part4.png": "/https//LionRouge1.github.io/firstloaninert/static/media/part4.f9d60c75a4b22afe4a31.png",
-    "static/media/part3.png": "/https//LionRouge1.github.io/firstloaninert/static/media/part3.200710f9ad7625acd4e2.png",
-    "static/media/icon.png": "/https//LionRouge1.github.io/firstloaninert/static/media/icon.5dbfdd6f79af102d5ffa.png",
-    "static/media/part2.png": "/https//LionRouge1.github.io/firstloaninert/static/media/part2.5d1f2e3d32b559ff5b10.png",
-    "static/media/dollarsm.png": "/https//LionRouge1.github.io/firstloaninert/static/media/dollarsm.cd413e16e9f634302894.png",
-    "static/media/part5.png": "/https//LionRouge1.github.io/firstloaninert/static/media/part5.86da4118eaf53e31b98a.png",
-    "static/media/comment_3.png": "/https//LionRouge1.github.io/firstloaninert/static/media/comment_3.0c4506f394a63a3ec69d.png",
-    "static/media/comment_1.png": "/https//LionRouge1.github.io/firstloaninert/static/media/comment_1.af8748bfd47b60fa02fa.png",
-    "static/media/money.svg": "/https//LionRouge1.github.io/firstloaninert/static/media/money.27c480b17e95e42fb85515ef6a1cb0f7.svg",
-    "static/media/approved.svg": "/https//LionRouge1.github.io/firstloaninert/static/media/approved.26c103bed280fec74da5c7475e178c23.svg",
-    "static/media/comment_2.png": "/https//LionRouge1.github.io/firstloaninert/static/media/comment_2.7cd788a5adb2cf517643.png",
-    "static/media/online.svg": "/https//LionRouge1.github.io/firstloaninert/static/media/online.21910db236c2f698d97a0544e48c4b89.svg",
     "index.html": "/https//LionRouge1.github.io/firstloaninert/index.html",
-    "static/media/money.webp": "/https//LionRouge1.github.io/firstloaninert/static/media/money.e653d07ab0bb140f5253.webp",
-    "main.5e894b69.css.map": "/https//LionRouge1.github.io/firstloaninert/static/css/main.5e894b69.css.map",
-    "main.605831bc.js.map": "/https//LionRouge1.github.io/firstloaninert/static/js/main.605831bc.js.map",
+    "static/media/logo.svg": "/https//LionRouge1.github.io/firstloaninert/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.073c9b0a.css.map": "/https//LionRouge1.github.io/firstloaninert/static/css/main.073c9b0a.css.map",
+    "main.d6ee60ef.js.map": "/https//LionRouge1.github.io/firstloaninert/static/js/main.d6ee60ef.js.map",
     "787.ce0fb57c.chunk.js.map": "/https//LionRouge1.github.io/firstloaninert/static/js/787.ce0fb57c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e894b69.css",
-    "static/js/main.605831bc.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d6ee60ef.js"
   ]
 }
